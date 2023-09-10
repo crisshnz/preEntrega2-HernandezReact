@@ -15,9 +15,9 @@ export const Navbar = () => {
         </h1>
       </div>
       <div>
-        <Navlink title="Electronico" url="/category/herramientas" />
-        <Navlink title="Herramientas" url="/category/capilares" />
-        <Navlink title="Capilares" url="/category/electronicos" />
+        <Navlink title="Electronico" url="/category/electronicos" />
+        <Navlink title="Herramientas" url="/category/herramientas" />
+        <Navlink title="Capilares" url="/category/capilares" />
       </div>
       <div>
         <CartWidget />
